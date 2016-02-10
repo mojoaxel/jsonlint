@@ -83,9 +83,8 @@ JSONMemberList
                     });
                 }
                 $$.__duplicateProperties__.push($3[0]);
-            } else {
-                $1[$3[0]] = $3[1];
             }
+            $1[$3[0]] = $3[1];
         }
     ;
 
