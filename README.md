@@ -1,6 +1,8 @@
 JSON Lint
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/jsonlint.svg)](https://greenkeeper.io/)
+
 A pure [JavaScript version](http://zaach.github.com/jsonlint/) of the service provided at [jsonlint.com](http://jsonlint.com).
 
 ## Command line interface
